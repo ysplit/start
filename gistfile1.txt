@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="tr" lang="tr">
+
+<head>
+
+<title> favoriler </title>
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+
+
+
+body {
+	background-color: #3C3C3C;
+	margin-top: 96px;
+
+}
+body,td,th {
+	font-family: "marke eigenbau";
+	font-size: 16px;
+	color: #d7d4cb;
+	line-height: 24px;
+}
+a:link {
+	color: #d7d4cb;
+	text-decoration: none;
+    }
+a:hover {
+	color: #d7d4cb;
+	text-decoration: none;
+    }
+a:visited {
+	color: #d7d4cb;
+	text-decoration: none;
+     }
+
+</style>
+</head>
+
+<body>
+
+<table width="50%" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<tr>
+    
+<td width="auto" valign="top">
+<table width="100%" border="0" cellspacing="20" cellpadding="0" align="center">
+
+<tr>
+    
+
+<td width="0" valign="top">
+
+<table border="0" cellspacing="10" cellpadding="0">
+
+<tr>
+<td width="auto"></td>
+<td>
+
+<a href="http://feedly.com/i/latest">feedly</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="http://www.eksisozluk.com/">ekşisözluk</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="http://www.pinterest.com/">pinterest</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="http://www.biletix.com/">biletix</a><br />
+    
+<a href="http://www.istanbul.net.tr/">istanbul</a><br />
+
+</td>
+</tr>
+</table>
+</td>
+
+<td width="0" valign="top">
+<table border="0" cellspacing="10" cellpadding="0">
+
+<tr>
+<td width="5"></td>
+<td>
+
+<a href="https://www.soundcloud.com/stream">soundcloud</a><br />
+
+<a href="https://bandcamp.com">bandcamp</a><br />
+
+<a href="https://www.mixcloud.com/">mixcloud</a><br />
+    
+<a href="http://www.1001tracklists.com">1001tracklists</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="http://www.whosampled.com">whosampled</a><br />
+
+<hr size="1" style="border-top: dotted 1px;">
+
+<a href="https://www.youtube.com/">youtube</a><br />
+
+<a href="https://vimeo.com/">vimeo</a><br />
+
+
+
+
+
+</td>
+</tr>
+</table>
+</td>
+
+<td width="0" valign="top">
+<table border="0" cellspacing="10" cellpadding="0">
+
+<tr>
+<td width="5"></td>
+<td>
+
+<a href="https://outlook.live.com/owa/">outlook</a><br />
+    
+<a href="https://mail.google.com/mail/u/0/#inbox">gmail</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="https://www.dropbox.com/home">dropbox</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="https://maps.google.com/">maps</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+
+<a href="https://www.icloud.com/#notes2">inotes</a><br />
+
+
+</td>
+</tr>
+</table>
+</td>
+
+<td width="0" valign="top">
+<table border="0" cellspacing="10" cellpadding="0" >
+
+<tr>
+<td width="5"></td>
+<td>
+
+<a href="https://translate.google.com/">gtranslate</a><br />
+    
+<a href="http://www.zargan.com/">zargan</a><br />
+    
+<a href="http://www.urbandictionary.com/">urbandictionary</a><br />
+
+<hr size="1" style="border-top: dotted 1px;">
+
+<a href="http://onlineclock.net/">alarmclock</a><br />
+
+<hr size="1" style="border-top: dotted 1px;">
+
+<a href="https://www.yemeksepeti.com/istanbul">yemeksepeti</a><br />
+
+
+</td>
+</tr>
+</table>
+</td>
+
+<td width="0" valign="top">
+<table border="0" cellspacing="10" cellpadding="0">
+
+<tr>
+<td width="5"></td>
+<td>
+
+<a href="http://3dsky.org">3dsky</a><br />
+    
+<a href="https://www.cgpeers.to">cgpeers</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="http://720pizle.com/">720pizle</a><br />
+    
+<hr size="1" style="border-top: dotted 1px;">
+    
+<a href="http://9gag.com/hot">9gag</a><br />
+
+
+
+</td>
+</tr>
+</table>
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+<td valign="top"> </td>
+
+</tr>
+
+<tr>
+
+<td colspan="3" height="18"></td>
+
+</tr>
+
+</table>
